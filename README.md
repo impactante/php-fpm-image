@@ -1,2 +1,2 @@
-# php-nginx-image
-Base image with: NGINX + PHP-FPM + MEMCACHE
+# php-fpm-image
+Base image with: PHP-FPM + MEMCACHE
