@@ -41,5 +41,3 @@ RUN mkdir /var/log/site-router && \
 
 # Set working directory
 WORKDIR /var/www
-
-USER $user
